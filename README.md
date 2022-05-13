@@ -4,7 +4,7 @@
 ## Skills 🚀
 - Programmer in Java | PHP | JavaScript since 2010.
 - In love with Culture DevOps like AWS, Google Cloud, Docker, and Others.
-- Technical skills in using Linux (Terminal, Bash Scripts).
+- Technical skills using Linux (Terminal, Bash Scripts).
 - Using Frameworks and Tools in Java JSF, Jpa Hibernate, Primephace, and Sever Such As Jetty, Tomcat, and Glassfish. In Php WordPress, in Javascript Nothing.
 - Database Use Postgassql (Intermediate) and SQL (Advanced).
 - Use Methodology Agile Scrum.
