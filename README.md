@@ -1,8 +1,6 @@
 # Hola | Hello | Bonjour 👋
  _My Name is Moics Markez, i'm from Venezuela, i'm a backend programer in Java | PHP | Javascript overall._
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 ## Skills 🚀
 - Programmer in Java | PHP | JavaScript since 2010.
 - In love with Culture DevOps like AWS, Google Cloud, Docker, and Others.
